@@ -1,0 +1,39 @@
+.back{
+    background-color: white;
+}
+.file-icon{
+    background-color: #E06516;
+    color: white;
+    border-radius: 50%;
+}
+.price{
+    color: #57b355;
+    font-weight: bold;
+}
+.bill-no{
+    color: grey;
+}
+.add-btn{
+    color: #11B061 !important;
+    background-color: #EEEFF1 !important;
+    border: #11B061;
+    border-radius: 30px;
+    /* width: 25%; */
+}
+.s-no{
+    color: #186C74;
+    border: 15px;
+    background-color: #D0F0F2;
+    font-weight: bold;
+    text-align: center;
+}
+.no-btn{
+    border: none;
+}
+.price-table{
+    background-color: #EEEFF1;
+}
+.price-table tr{
+    line-height: 1.5%;
+    font-size: small;
+}

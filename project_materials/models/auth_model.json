@@ -1,0 +1,16 @@
+{
+    "city": {
+        "name" : "Kolkala",
+        "pincode" : "713102"
+
+    },
+    "products" :{
+        "product_name" : "10L Bislari Water",
+        "category_id" : "2",
+        "brand_id" : "3",
+        "product_description": "",
+    }
+
+}
+
+
